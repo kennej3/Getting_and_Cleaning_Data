@@ -30,7 +30,7 @@ These describe the type of activity performed by the subject.  They are:
 ----------------
 
 
-The variables described the measurements taken during each activity for each subject. The time domain signals are prefaced with Time, the fourier domain signals are prefaced with Frequency. Linear body acceleration contains the words BodyAcc, low-frequency body acceleration is assumed to be due to gravity and is indicated by GravityAcc. Linear body jerk contains the words BodyAccJerk. The Gyro signals are indicated by Gryo. The magnitudes of the vectors are indicated by Mag. The mean and standard deviation are indicated by Mean and StandardDeviation and the X,Y, and Z axies are added as a suffic. The full list of variables in the merged.data data frame are:
+The variables described the measurements taken during each activity for each subject. The time domain signals are prefaced with Time, the fourier domain signals are prefaced with Frequency. Linear body acceleration contains the words BodyAcc, low-frequency body acceleration is assumed to be due to gravity and is indicated by GravityAcc. Linear body jerk contains the words BodyAccJerk. The Gyro signals are indicated by Gryo. The magnitudes of the vectors are indicated by Mag. The mean and standard deviation are indicated by Mean and StandardDeviation and the X,Y, and Z axies are added as a suffix. The full list of variables in the merged.data data frame are:
 
 * TimeBodyAccMeanX
 * TimeBodyAccMeanY
