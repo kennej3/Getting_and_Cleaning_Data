@@ -1,7 +1,7 @@
 ## CodeBook
 =================
 
-# This codebook is a modification of the features_into.txt document in the UCI_HAR_Dataset downloaded from http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones and describes all the variables and summaries calculated by run_analysis.R, 
+This codebook is a modification of the features_into.txt document in the UCI_HAR_Dataset downloaded from http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones and describes all the variables and summaries calculated by run_analysis.R, 
 
 The raw data of the features selected for this database come from the accelerometer and gyroscope 3-axial raw signals TimeAccXYZ and TimeGyroXYZ. These time domain signals were processed as described in the features_into.txt document in the UCI_HAR_Dataset to produce 3D Jerk and corresponding magnitudes.
 
